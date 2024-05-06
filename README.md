@@ -25,7 +25,8 @@
 2. **Student ID Card Processing**:
    - Customizable ID card templates with options for school logos, colors, and layout.
    - Integration with enrollment system for seamless ID card generation.
-   
+![Student ID Card](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/db83b029-3c95-4b51-a112-100da17a7873)
+---   
 3. **School Fee Management System**:
    - Flexible fee structure setup with customizable fee categories and payment plans.
    - Dynamic fee calculation based on student enrollment status and other factors.
