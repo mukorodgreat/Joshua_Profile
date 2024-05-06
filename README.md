@@ -1,4 +1,4 @@
-# Customizable School Management System
+# Customizable School Management System![Main Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/e9a22a54-005c-41e5-91a1-c4717f4c0fbe)
 ## Tailored Solutions for Educational Institutions
 
 ---
@@ -37,7 +37,6 @@
    - Advanced result analysis tools for generating custom reports and analytics.
 ![Result Processing1](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/61bf5a8c-e00d-4247-a792-1c6136185ab9)
 ---
- 
 5. **Student Result Printing**:
    - Customizable result templates with options for formatting, branding, and language.
    - Batch printing capabilities for efficiently processing large volumes of result sheets.
@@ -49,7 +48,8 @@
 7. **Suppliers Management System**:
    - Customizable supplier profiles with fields for contact information, pricing agreements, and delivery terms.
    - Supplier rating and evaluation features for assessing performance and reliability.
-   
+![Suppliers](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/6e2b37d5-e739-4028-8654-b95e3dea1f77)
+---   
 8. **Staff Management System**:
    - Customizable staff profiles with options for recording qualifications, certifications, and training records.
    - Role-based access controls and permissions for managing staff access to system features.
