@@ -12,9 +12,9 @@
 
 ## Application Overview
 - **Description**: Our Customizable School Management System is designed to empower educational institutions with the tools they need to efficiently manage their administrative tasks. With customizable features and modules, schools can tailor the system to suit their specific requirements.
-![Main Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/e9a22a54-005c-41e5-91a1-c4717f4c0fbe)
 
 ---
+![Main Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/e9a22a54-005c-41e5-91a1-c4717f4c0fbe)
 
 ## Key Features
 1. **Student Enrollment System**:
