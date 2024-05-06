@@ -1,4 +1,4 @@
-# School Management Application Showcase
+# School Management Application
 
 ## Key Features Overview
 - Student Enrollment
