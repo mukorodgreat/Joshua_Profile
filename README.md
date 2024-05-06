@@ -30,7 +30,8 @@
 3. **School Fee Management System**:
    - Flexible fee structure setup with customizable fee categories and payment plans.
    - Dynamic fee calculation based on student enrollment status and other factors.
-   
+![Payment 1](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/74a0231e-b911-4dcc-be13-e99e4013cc6c)
+---
 4. **Student Result Processing System**:
    - Customizable result entry forms to accommodate different grading systems and assessment methods.
    - Advanced result analysis tools for generating custom reports and analytics.
