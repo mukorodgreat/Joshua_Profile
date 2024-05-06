@@ -20,7 +20,7 @@
 1. **Student Enrollment System**:
    - Customizable enrollment forms and fields to capture relevant student information.
    - Flexible workflow options to accommodate various enrollment processes.
-   
+![Student Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/ef0b775d-0c51-4efa-bb07-61a557d2da22)   
 2. **Student ID Card Processing**:
    - Customizable ID card templates with options for school logos, colors, and layout.
    - Integration with enrollment system for seamless ID card generation.
