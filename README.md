@@ -1,7 +1,5 @@
 # Customizable School Management System
 ## Tailored Solutions for Educational Institutions
-### Presenter: [JOSHUA UMUKORO]
-### Date: [CURRENT DATE]
 
 ---
 
@@ -14,7 +12,6 @@
 
 ## Application Overview
 - **Description**: Our Customizable School Management System is designed to empower educational institutions with the tools they need to efficiently manage their administrative tasks. With customizable features and modules, schools can tailor the system to suit their specific requirements.
-- **Screenshots**: Visual representations of the application's user interface, showcasing key features and customizable elements.
 
 ---
 
