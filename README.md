@@ -35,7 +35,9 @@
 4. **Student Result Processing System**:
    - Customizable result entry forms to accommodate different grading systems and assessment methods.
    - Advanced result analysis tools for generating custom reports and analytics.
-   
+![Result Processing1](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/61bf5a8c-e00d-4247-a792-1c6136185ab9)
+---
+ 
 5. **Student Result Printing**:
    - Customizable result templates with options for formatting, branding, and language.
    - Batch printing capabilities for efficiently processing large volumes of result sheets.
