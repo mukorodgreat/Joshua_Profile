@@ -61,6 +61,6 @@
 ---
 
 ## Contact Information
-- **Email**: [mukorodgreat@gmail.com]
-- **Website**: [(https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)]
-- **Phone**: [+234 8053078449]
+- **Email**: mukorodgreat@gmail.com
+- **Website**: (https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)
+- **Phone**: +234 8053078449
