@@ -36,12 +36,14 @@
 ---
 4. **Student Result Processing System**:
    - Customizable result entry forms to accommodate different grading systems and assessment methods.
+   - With ability to import/export students scores to and from Ms. Excel. 
    - Advanced result analysis tools for generating custom reports and analytics.
 ![Result Processing1](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/61bf5a8c-e00d-4247-a792-1c6136185ab9)
 ---
 5. **Student Result Printing**:
    - Customizable result templates with options for formatting, branding, and language.
    - Batch printing capabilities for efficiently processing large volumes of result sheets.
+   - Student results can be exported in PDF and other format.
    
 6. **School Stock Item Management System**:
    - Customizable inventory categories and attributes to track various types of stock items.
@@ -57,7 +59,12 @@
    - Role-based access controls and permissions for managing staff access to system features.
 
 ---
+## Technical Details
+- **Technology Stack**: Developed using FileMaker Pro (As a Product of Apple company, Claris FileMaker adopts rigorous security standards including holding SOC 2® Type 2 and ISO compliance accreditations.) It also run effectively on Windows Platform..
+- **Architecture**: Scalable architecture with modular design for easy customization and expansion.
+- **Data Modelling**: Integrated database system designed with room for future expansion.
 
+---
 ## Conclusion
 - **Summary**: Our Customizable School Management System offers educational institutions the flexibility and adaptability they need to tailor their administrative processes to suit their unique requirements.
 - **Call to Action**: Interested in learning more about how our Customizable School Management System can benefit your institution? Contact us for a personalized demonstration or consultation.
