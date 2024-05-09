@@ -60,10 +60,11 @@
 
 ---
 ## Technical Details
-- **Technology Stack**: Developed using FileMaker Pro (As a Product of Apple company, Claris FileMaker adopts rigorous security standards including holding SOC 2® Type 2 and ISO compliance accreditations.) It also run effectively on Windows Platform..
+- **Technology Stack**: Developed using FileMaker Pro (As a Product of Apple company, Claris FileMaker adopts rigorous security standards including holding SOC 2® Type 2 and ISO compliance accreditations.) It also run 
+    effectively on Windows Platform..
 - **Architecture**: Scalable architecture with modular design for easy customization and expansion.
 - **Data Modelling**: Integrated database system designed with room for future expansion.
-
+![Data Modelling](https://github.com/mukorodgreat/SIRJOSH-APPLICATION-DEVELOPMENT-PROJECTS/assets/67916594/ac004018-4489-4c37-bb2b-74ed49c66d2c)
 ---
 ## Conclusion
 - **Summary**: Our Customizable School Management System offers educational institutions the flexibility and adaptability they need to tailor their administrative processes to suit their unique requirements.
@@ -72,6 +73,6 @@
 ---
 
 ## Contact Information
-- **Email**: mukorodgreat@gmail.com
-- **Website**: (https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)
+- **Email**: [mukorodgreat@gmail.com]
+- **Website**: [(https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)]
 - **Phone**: +234 8053078449
