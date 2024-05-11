@@ -20,9 +20,34 @@
   
   <div id="softwareProjects" class="tabcontent">
     <h2>My Software Applications Projects</h2>
-    <p># PROJECT 1
+    <p># PROJECT 1      
+    </p>
+  </div>
+  
+  <div id="dataAnalysisProjects" class="tabcontent">
+    <h2>My Data Analysis Projects</h2>
+    <p>Put your data analysis projects content here.</p>
+  </div>
+  
+  <script>
+    function openTab(tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      event.currentTarget.className += " active";
+    }
+  </script>
+</body>
+</html>
 
-          ## School Management System
+## School Management System
           
            ![Main Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/e9a22a54-005c-41e5-91a1-c4717f4c0fbe)
           ## Tailored Solutions for Educational Institutions
@@ -99,32 +124,3 @@
           - **Website**: [(https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)]
           - **Phone**: +234 8053078449
           
-          
-          
-          
-      
-    </p>
-  </div>
-  
-  <div id="dataAnalysisProjects" class="tabcontent">
-    <h2>My Data Analysis Projects</h2>
-    <p>Put your data analysis projects content here.</p>
-  </div>
-  
-  <script>
-    function openTab(tabName) {
-      var i, tabcontent, tablinks;
-      tabcontent = document.getElementsByClassName("tabcontent");
-      for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
-      }
-      tablinks = document.getElementsByClassName("tablink");
-      for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
-      }
-      document.getElementById(tabName).style.display = "block";
-      event.currentTarget.className += " active";
-    }
-  </script>
-</body>
-</html>
