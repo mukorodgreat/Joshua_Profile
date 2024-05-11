@@ -5,7 +5,7 @@
   <button class="tablink" onclick="openTab('aboutMe')">About Me</button>
   </div>
 
-# [snaphunt.com](https://www.snaphunt.com/) powered by Umukoro Joshua
+# Powered by Umukoro Joshua
 
 - **Email:** mukorodgreat@gmail.com
 - **Phone:** (+234) 8035078449
