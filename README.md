@@ -1,3 +1,13 @@
+# My Portfolio
+
+<div class="tab-container">
+  <button class="tablink" onclick="openTab('aboutMe')">About Me</button>
+  <button class="tablink" onclick="openTab('softwareProjects')">My Software Applications Projects</button>
+  <button class="tablink" onclick="openTab('dataAnalysisProjects')">My Data Analysis Projects</button>
+</div>
+
+
+
 # PROJECT 1
 
 ## School Management System
