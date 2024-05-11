@@ -3,9 +3,7 @@
 
 <div class="tab-container">
   <button class="tablink" onclick="openTab('aboutMe')">About Me</button>
-  <button class="tablink" onclick="openTab('softwareProjects')">My Software Applications Projects</button>
-  <button class="tablink" onclick="openTab('dataAnalysisProjects')">My Data Analysis Projects</button>
-</div>
+  </div>
 
 # [snaphunt.com](https://www.snaphunt.com/) powered by Umukoro Joshua
 
@@ -121,6 +119,9 @@ I have trained over 15,000 persons across Nigeria in various ICT field.
 - Excellent knowledge of MS Excel, MS Word, MS Corel Draw, MS PowerPoint.
 - Ability to not only align but integrate a wide range of technical and management principles.
 
+<div class="tab-container">
+    <button class="tablink" onclick="openTab('softwareProjects')">My Software Applications Projects</button>
+ </div>
 
 # PROJECT 1
 
