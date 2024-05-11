@@ -7,10 +7,10 @@
 
 # Powered by Umukoro Joshua
 
-- **Email:** mukorodgreat@gmail.com
-- **Phone:** (+234) 8035078449
-- **Location:** Kano, Nigeria
-- **LinkedIn:** [linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/](https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)
+- **Email:** mukorodgreat@gmail.com **
+- **Phone:** (+234) 8035078449 **
+- **Location:** Kano, Nigeria **
+- **LinkedIn:** [linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/](https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/) **
 
 ---
 
