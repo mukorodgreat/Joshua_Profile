@@ -6,6 +6,10 @@
   <button class="tablink" onclick="openTab('dataAnalysisProjects')">My Data Analysis Projects</button>
 </div>
 
+<div id="aboutMe" class="tabcontent">
+  <h2>About Me</h2>
+  <p>Put your About Me content here.</p>
+</div>
 
 
 # PROJECT 1
