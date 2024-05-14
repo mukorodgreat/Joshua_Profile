@@ -22,6 +22,9 @@
 1. **Student Enrollment System**:
    - Customizable enrollment forms and fields to capture relevant student information.
    - Flexible workflow options to accommodate various enrollment processes.
+   - Included here is the ACCOUNT TAB where you can view details of the Student Bills and Payment.
+   - Also included is the INVENTORY TAB where you can view all the inventories that have been given to the Student.
+   - The PARENT/COLLECTORS TAB display information about the Student Parent and persons who will be picking up the Student.
 ![Student Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/ef0b775d-0c51-4efa-bb07-61a557d2da22)
 ---
 2. **Student ID Card Processing**:
