@@ -1,8 +1,11 @@
 
 # MY APPLICATION DEVELOPMENT PROJECTS
-## [PROJECT 1][School Management System]
+
+
+## [PROJECT 1](##School Management System)
 ## PROJECT 2 RetailPro Application
 ## PROJECT 3 Hotel Management System
+
 
 ## [School Management System]
 
