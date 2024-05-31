@@ -2,12 +2,12 @@
 # MY APPLICATION DEVELOPMENT PROJECTS
 
 
-## [PROJECT 1](##School Management System)
+## [PROJECT 1 School Management System](#school-management-system)
 ## PROJECT 2 RetailPro Application
 ## PROJECT 3 Hotel Management System
 
 
-## [School Management System]
+## School Management System
 
  ![Main Page](https://github.com/mukorodgreat/School-Management-ERP/assets/67916594/e9a22a54-005c-41e5-91a1-c4717f4c0fbe)
 ## Tailored Solutions for Educational Institutions
