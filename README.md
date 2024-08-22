@@ -2,11 +2,7 @@
 
 ## Menu
 
-- [About](#about)
-- [Data Analysis](#data-analysis)
-- [Application Development](#application-development)
-- [Data Engineering](#data-engineering)
-# MY APPLICATION DEVELOPMENT PROJECTS
+[About](#about) | [Data Analysis](#data-analysis) | [Application Development](#application-development) | [Data Engineering](#data-engineering)
 
 
 ## [PROJECT 1 School Management System](#school-management-system)
