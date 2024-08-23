@@ -10,7 +10,7 @@
 ## About Me
 <div style="text-align: center;">
     <img src="![Josh](https://github.com/user-attachments/assets/fbbf43e7-bfba-4f4a-929d-0a3f9d944bc3)
-" alt="Your Name" width="300">
+" alt="Josh" width="300">
 </div>
 ![Josh](https://github.com/user-attachments/assets/fbbf43e7-bfba-4f4a-929d-0a3f9d944bc3)
 
