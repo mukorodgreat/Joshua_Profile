@@ -3,7 +3,7 @@
   <a href="#top" style="text-decoration: none;">Go to Top</a>
 </div>
 
-# [joshprofile](https://github.com/mukorodgreat/joshprofile)
+# [Joshua_Profile](https://github.com/mukorodgreat/joshprofile)
 
 ## Menu
 
