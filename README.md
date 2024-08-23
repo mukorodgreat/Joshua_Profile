@@ -65,6 +65,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-umukoro-amnim-1
 
 
 ## Data Analysis
+- **[School Management System](https://github.com/yourusername/school-management-system)**
+
 [Details about your Data Analysis projects, tools, or methodologies.]
 
 
