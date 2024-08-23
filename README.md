@@ -1,14 +1,86 @@
-# [Mr. Joshua Umukoro Profile Page](https://yourwebsiteurl.com)
+
+# [joshprofile](https://github.com/mukorodgreat/joshprofile)
 
 ## Menu
 
-[About](#about) | [Data Analysis](#data-analysis) | [Application Development](#application-development) | [Data Engineering](#data-engineering)
+[About Me](#about-me) | [Data Analysis](#data-analysis) | [Application Development](#application-development) | [Data Engineering](#data-engineering)
+
+---
+
+## About Me
+<div style="text-align: center;">
+    <img src="![Josh](https://github.com/user-attachments/assets/9aecdcab-542f-46bf-bb71-1a6a33a3b8ef)
+" alt="Your Name" width="300">
+</div>
+I am a Data Analyst, An Accountant and Application Developer. I have trained over 15,000 persons across Nigeria in various ICT field. I am Data Analyst with very good knowledge of Python, R, Power BI , Tableau, SQL and  Advance Excel.     Project Management Professional (PM) with good knowledge of Microsoft Project .     Database Administrator with very good knowledge of Database Management System (Oracle 11g). FileMaker Database Application Developer and database integration expert. Customized software developer for small and medium scale businesses aimed at problem solving.    Accountant with very good knowledge of accounting packages like Sage 50 (Peachtree), Tally ERP and QuickBooks.
+
+### PROFESSIONAL EXPERIENCE
+
+- 2021 – Date: Senior Accountant, Rocad Construction Company
+- 2010 – 2021: Data Analyst/Kano Centre Manager, HiiT Training Institute
+- 2006 – 2007: Youth Service, ADESEMI NIG LTD (ISP) ABA, ABIA STATE
+- 2003 – 2006: Computer Instructor, REHOBOTH COMPUTERS ABRAKA DELTA STATE
+- 1999 – 2003: Accountant, DUMJOS CHEMIST NIG LTD. JOS
+- 1996 – 1999: Auditor, MICHEAL NWOKE & SONS (CHARTERED ACCOUNTANT) JOS
 
 
-## [PROJECT 1 School Management System](#school-management-system)
-## PROJECT 2 RetailPro Application
-## PROJECT 3 Hotel Management System
 
+---
+
+### SKILLS
+- Excellent knowledge of Oracle 11g database
+- Excellent knowledge of Python for data analysis
+- Excellent knowledge of software development (Filemaker development)
+- Excellent knowledge of MS Power BI (Business Intelligence)
+- Excellent knowledge of Excel for Data Analysis and Visualization
+- Knowledge of Tableau for Data Analysis and Visualization
+- Data analysis with R (In view)
+- Excellent knowledge of Accounting Packages Like QuickBooks, Sage 50, and Tally ERP
+- Excellent knowledge of MS Excel, MS Word, MS Corel Draw, MS PowerPoint
+- Ability to not only align but integrate a wide range of technical and management principles
+
+---
+
+### SOFTWARE DEVELOPED
+- Automated Hotel Management Application
+- Automated Hospital Management System
+- Customized Security Outfit Management Application
+- Automated School Management Application
+- Automated RetailPro Application
+
+---
+
+### OTHER CERTIFICATES OBTAINED
+- Data Analyst (Scenario Academy)
+- Machine Learning (Scenario Academy)
+- CBT Software Solution Developer (HiiT Institute)
+- Project Management Professional (HiiT Institute)
+- Proficiency Certificate in Management (Nigeria Institue of Management MIN)
+
+
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/).
+
+
+
+
+
+## Data Analysis
+[Details about your Data Analysis projects, tools, or methodologies.]
+
+
+
+
+
+
+
+
+## Application Development
+
+# MY SOFTWARE APPLICATION DEVELOPMENT PROJECTS
+# [PROJECT 1 : School Management System](#school-management-system)
+# PROJECT 2
+# PROJECT 3
 
 ## School Management System
 
@@ -89,3 +161,11 @@
 - **Email**: [mukorodgreat@gmail.com]
 - **Website**: [(https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)]
 - **Phone**: +234 8053078449
+
+
+
+## Data Engineering
+[Details about your Data Engineering, tools, or methodologies.]
+
+
+[Go to Top](#menu)
