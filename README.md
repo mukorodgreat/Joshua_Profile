@@ -1,3 +1,7 @@
+<!-- Floating Go to Top Button -->
+<div style="position: fixed; bottom: 10px; right: 10px; background-color: #f1f1f1; border-radius: 5px; padding: 10px;">
+  <a href="#top" style="text-decoration: none;">Go to Top</a>
+</div>
 
 # [joshprofile](https://github.com/mukorodgreat/joshprofile)
 
@@ -344,7 +348,7 @@ Below are some of the analysis done us Power Pivot
 - **Website**: [(https://www.linkedin.com/in/joshua-umukoro-amnim-1aa25b3b/)]
 - **Phone**: +234 8053078449
 
-
+<!-- Repeat Go to Top Link as needed -->
 
 ## Data Engineering
 [Details about your Data Engineering, tools, or methodologies.]
