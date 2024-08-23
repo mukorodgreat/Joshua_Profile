@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-
-![Josh](https://github.com/user-attachments/assets/8ae7b3f6-e507-4feb-9523-67274991ad25)
-
+<div style="text-align: center;">
+    <![Josh](https://github.com/user-attachments/assets/8ae7b3f6-e507-4feb-9523-67274991ad25)>
+</div>
 I am a Data Analyst, An Accountant and Application Developer. I have trained over 15,000 persons across Nigeria in various ICT field. I am Data Analyst with very good knowledge of Python, R, Power BI , Tableau, SQL and  Advance Excel.     Project Management Professional (PM) with good knowledge of Microsoft Project .     Database Administrator with very good knowledge of Database Management System (Oracle 11g). FileMaker Database Application Developer and database integration expert. Customized software developer for small and medium scale businesses aimed at problem solving.    Accountant with very good knowledge of accounting packages like Sage 50 (Peachtree), Tally ERP and QuickBooks.
 
 ### PROFESSIONAL EXPERIENCE
